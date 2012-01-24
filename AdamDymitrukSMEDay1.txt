@@ -1,6 +1,6 @@
 P&P CQRS Guidence
 
-Projects have been cancelled. The only one was Data Acces due to Vote of No Confidence.
+Projects have been cancelled/postponed after exploration in the past. The only one was Data Access due to lack of interest. This happened after the Vote of no Confidence.
 Project sample domain is Conference Organization
 Home Base: Git Hub – how to use
 
@@ -44,6 +44,4 @@ Looking at a calculator for costs of conference.
 
 Dropping taxes out of the cost calculation. Will be lumped into "fees".
 
-Dealing with payments is taking a lot of time.
 
-The application will be Multi-Tenant.
