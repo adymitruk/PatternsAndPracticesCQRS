@@ -1,25 +1,18 @@
 P&P CQRS Guidence
 
 Projects have been cancelled. The only one was Data Acces due to Vote of No Confidence.
-
 Project sample domain is Conference Organization
-
 Home Base: Git Hub – how to use
 
 How much of any of these: CQRS with ES/DDD?
-
 Not for the novice developer. New to CQRS but not to programming.
-
 Need a very concise version of DDD concepts.
 
 Order of importance in DDD
+	Bounded Context
+	the rest in not prioritized
 
-Bounded Context
-
-the rest in not prioritized
-
-Backlog grooming of the example domain.
-
+Backlog grooming of the example domain will be done in the next week.
 Put complex behaviour at the beginning
 
 LUNCH: Excellent pizza!
@@ -28,18 +21,18 @@ Bounded contexts have been defined.
 
 Entry point of the system is out of scope. Straight to the landing page of the event.
 
-Registration with the minutia of details
+Registration minutia of details was skipped.
 
 Trying to find a complex enough workflow/saga.
 
 Community suggestions:
-
-Manual override. Give away codes for bulk purchase after negotiation.
-
-Facebook integration
-
-Hotel integration.
-
-Dynamic room allocation based on interest.
+	Manual override. Give away codes for bulk purchase after negotiation.
+	Facebook integration
+	Hotel integration.
+	Dynamic room allocation based on interest.
 
 Discounts and discount codes are being looked at. Interesting scenarios are coming out of cancellations and partial cancellations.
+
+Mechanics of buying
+	PayPal
+	Direct
