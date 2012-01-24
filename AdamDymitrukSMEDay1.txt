@@ -46,3 +46,6 @@ Dropping taxes out of the cost calculation. Will be lumped into "fees".
 
 Before getting to the shopping cart, whether the group registration is supported should be known.
 As an individual, I don't care about tickets. As an HR person, I need the idea of tickets.
+
+My contribution (sigh): GIANT BUTTONS
+	(this is for group or individual registration)
