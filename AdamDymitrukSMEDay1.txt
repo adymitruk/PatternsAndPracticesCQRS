@@ -39,3 +39,5 @@ Mechanics of buying
 
 Looking at a calculator for costs of conference.
 	Stealing form Heroku calculator and azure cost calculator.
+
+Dropping taxes out of the cost calculation. Will be lumped into "fees".
