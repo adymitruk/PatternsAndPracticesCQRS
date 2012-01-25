@@ -54,3 +54,4 @@ Knowlingly using "Conference" instead of "Event" in the UL due to obvious confus
 
 Grigory is worried about me misunderstanding something and posting it here :) (see edits to first note here)
 
+Separate workflow for group as opposed to individual workflow.
