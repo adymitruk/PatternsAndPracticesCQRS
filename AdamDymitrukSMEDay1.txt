@@ -55,3 +55,6 @@ Knowlingly using "Conference" instead of "Event" in the UL due to obvious confus
 Grigory is worried about me misunderstanding something and posting it here :) (see edits to first note here)
 
 Separate workflow for group as opposed to individual workflow.
+
+Group registration will have fields to specify name and email. Email will be sent with code.
+	code will be an airline booking number code "ADTK3PY" and will recycle after 3 months.
