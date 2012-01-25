@@ -60,4 +60,5 @@ Group registration will have fields to specify name and email. Email will be sen
 	code will be an airline booking number code "ADTK3PY" and will recycle after 3 months.
 	This will be known as "Order Locator" number.
 
+Onto the evening portion of the day. See you tomorrow!
 
