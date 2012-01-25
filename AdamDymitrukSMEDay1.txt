@@ -49,3 +49,8 @@ As an individual, I don't care about tickets. As an HR person, I need the idea o
 
 My contribution (sigh): GIANT BUTTONS
 	(this is for group or individual registration)
+
+Knowlingly using "Conference" instead of "Event" in the UL due to obvious confusion this could cause. Web pages will still show the word "Event".
+
+Grigory is worried about me misunderstanding something and posting it here :) (see edits to first note here)
+
