@@ -1,0 +1,26 @@
+Day 2
+
+Today we got into some coding. As agreed we started spiking some event sourcing.
+
+All was good until we reached how to apply a discount for a registration.
+
+Coupons and discounts fell into these categories:
+	Explicit coupon that would take a percentage off of the final price.
+	Implied discounts due to early bird.
+	Implied discounts due to booking many people.
+
+It was interesting to see a team look at the problem through CQRS glasses for the first time. Places to put such concerns as calculating a discount were obvious before, but with CQRS and not being allowed to query the domain it raised a lot of questions where this belonged.
+
+We looked at my implementatiot for file based evnt storage that does quite a lot in ~160 lines of code.
+
+We also discussed the pitfalls of having a lot of file writes and fragmentation and the performance issues it introduces. So we discussed pre-allocating files to solve that issue.
+
+We got into looking at versioning for events and only scratched the surface of event translation.
+
+Unfortunately I can't share that code with you due to the legal shenanigans that a company the size of Microsoft must go through. Git and GitHub seems to be rubbing someone the wrong way - I don't know why.
+
+Given these issues, I'm still quite happy with the project. There are opportunities to make it skinnier and get rid of things such as MSTest, nuget, etc. I'm hoping this happens and the example app won't drag in all these distractions.
+
+Sounds like there will be opportunity for me to visit again for this project. If that happens, I'll make sure to make the most of it again.
+
+Also, many thanks to the #altnetseattle crew who showed up and it is always nice to see them. They also contributed to the CQRS project.
