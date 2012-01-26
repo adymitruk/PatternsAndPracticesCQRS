@@ -17,6 +17,8 @@ We also discussed the pitfalls of having a lot of file writes and fragmentation 
 
 We got into looking at versioning for events and only scratched the surface of event translation.
 
+Now it was time to initialize a git repo and commit the spike. I added a basic .gitignore, which is probably ignoring all their referenced libs. We configured the basics such as turning of autocrlf and setup user name and email. We made a central bare repo on a share and pushed up our code to that. Now they can clone to each machine and have a good time. I was happy to see the command line being used. Typing on a non-Dvorak keyboard was labourous for me.
+
 Unfortunately I can't share that code with you due to the legal shenanigans that a company the size of Microsoft must go through. Git and GitHub seems to be rubbing someone the wrong way - I don't know why.
 
 Given these issues, I'm still quite happy with the project. There are opportunities to make it skinnier and get rid of things such as MSTest, nuget, etc. I'm hoping this happens and the example app won't drag in all these distractions.
