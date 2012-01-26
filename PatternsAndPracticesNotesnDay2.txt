@@ -11,7 +11,7 @@ Coupons and discounts fell into these categories:
 
 It was interesting to see a team look at the problem through CQRS glasses for the first time. Places to put such concerns as calculating a discount were obvious before, but with CQRS and not being allowed to query the domain it raised a lot of questions where this belonged.
 
-We looked at my implementatiot for file based evnt storage that does quite a lot in ~160 lines of code.
+We looked at my implementation for file based event storage that does quite a lot in ~160 lines of code - including snap-shotting.
 
 We also discussed the pitfalls of having a lot of file writes and fragmentation and the performance issues it introduces. So we discussed pre-allocating files to solve that issue.
 
